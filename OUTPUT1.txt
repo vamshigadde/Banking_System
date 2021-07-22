@@ -1,0 +1,120 @@
+
+
+Welcome to My Bank
+1. Login
+2. Create a new Account
+Make Decision : 1
+Logging in
+Enter Name : vamshi
+Enter Phone Number : 7276645450
+Enter your Password : Vamshi@123
+vamshi logged in
+1.Add Amount
+2.Check Balance
+3.Transfer Amount
+4.Edit Profile
+5.Logout
+Enter choice : 1
+Balance = 100
+Enter amount : 1000
+Amount Added Successfully
+
+1.Back Menu
+2.Logout
+1
+1.Add Amount
+2.Check Balance
+3.Transfer Amount
+4.Edit Profile
+5.Logout
+Enter choice : 2
+Balance = 1100
+
+
+Welcome to My Bank
+1. Login
+2. Create a new Account
+Make Decision : 1
+Logging in
+Enter Name : vamshi
+Enter Phone Number : 7276645450
+Enter your Password : Vamshi@123
+vamshi logged in
+1.Add Amount
+2.Check Balance
+3.Transfer Amount
+4.Edit Profile
+5.Logout
+Enter choice : 3
+Balance = 1100
+Enter amount: 200
+Enter the person name : Manas
+Enter the person phone number : 9172876558
+Amount Transferred Successfully to Manas - 9172876558
+Balance left = 900
+
+1.Back Menu
+2.Logout
+1
+1.Add Amount
+2.Check Balance
+3.Transfer Amount
+4.Edit Profile
+5.Logout
+Enter choice : 4
+1.Password Change
+2.Phone Number Change
+1
+Enter new Password : Vamshi@123
+New Password set up Successfully
+
+1.Back Menu
+2.Logout
+Enter your choice : 1
+1.Add Amount
+2.Check Balance
+3.Transfer Amount
+4.Edit Profile
+5.Logout
+Enter choice : 4
+1.Password Change
+2.Phone Number Change
+
+
+
+
+
+
+1.Add Amount
+2.Check Balance
+3.Transfer Amount
+4.Edit Profile
+5.Logout
+Enter choice : 2
+Balance = 900
+
+1.Back Menu
+2.Logout
+1
+1.Add Amount
+2.Check Balance
+3.Transfer Amount
+4.Edit Profile
+5.Logout
+Enter choice : 4
+1.Password Change
+2.Phone Number Change
+2
+Enter new phone number : 1234567890
+New Phone Number set up successfully
+
+1.Back Menu
+2.Logout
+Enter your choice : 1
+1.Add Amount
+2.Check Balance
+3.Transfer Amount
+4.Edit Profile
+5.Logout
+Enter choice : 5
+>>> 
